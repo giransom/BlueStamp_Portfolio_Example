@@ -1,5 +1,5 @@
 # BlueStamp Example Portfolio
-This portfolio is an example set up of how the BlueStamp portfolio should be set up. The following sections will include descriptions on building the Gesture Controlled Robot, including timeline, challanges, and modifications. The project includes many achievments and issues that arised, but overall the project was enjoyable to build.
+This portfolio is an example set up of how the BlueStamp portfolio should be set up. The following sections will include descriptions on building the Air Quaility Monitor, Armband, Gesture Controlled Robot, Gesture Detection, Color Memory Game, Snake Game, and Floor Cleaning Robot. The project includes many achievments and issues that arised, but overall the project was enjoyable to build.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 

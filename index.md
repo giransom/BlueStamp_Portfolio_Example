@@ -256,7 +256,7 @@ void stop(){
 **Bill of Materials**
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Sun Founder | Includes the robot build parts | $59.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Sun Founder | Includes the robot build parts | $59.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/dp/B0B778L1DZ?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_3)"> Link </a> |
 | Arduino Nano | MicroChip Board Control for Hand | $7.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | HC 05 Bluetooth Module | Utilized for cross communication between robot and hand | $9.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |

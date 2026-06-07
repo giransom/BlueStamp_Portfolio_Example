@@ -261,6 +261,10 @@ void stop(){
 | HC 05 Bluetooth Module | Utilized for cross communication between robot and hand | $9.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://a.co/d/0h4yEgRQ)"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
+
+**Schematics**
+![Headstone Image](how_to_make_hand_gesture_control_robot_via_bluetooth_Idj2KLCd3B.png)
+
 # Armband
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**

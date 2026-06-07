@@ -21,7 +21,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 For this Project Helpful Links include:
 - Robot build: <a href="https://docs.sunfounder.com/projects/3in1-kit/en/latest/car_project/car_move_by_code.html"> Link </a>
-- HC-05 Module Connection: <a href="https://docs.sunfounder.com/projects/3in1-kit/en/latest/car_project/car_move_by_code.html"> Link </a>
+- HC-05 Module Connection: <a href="https://www.youtube.com/watch?v=BXXAcFOTnBo"> Link </a>
 
 **Sample Code for HC-05 Connection**
 ```c++

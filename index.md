@@ -25,10 +25,38 @@ You should comment out all portions of your portfolio that you have not complete
 
 For this Project Helpful Links include:
 - Robot build: <a href="https://docs.sunfounder.com/projects/3in1-kit/en/latest/car_project/car_move_by_code.html"> Link </a>
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- HC-05 Module Connection: <a href="https://docs.sunfounder.com/projects/3in1-kit/en/latest/car_project/car_move_by_code.html"> Link </a>
+- Sample HC-05 Connection Code
+```c++
+#include <SoftwareSerial.h>
 
+
+SoftwareSerial BTSerial(2, 3); // RX, TX
+
+
+void setup() {
+ Serial.begin(38400);
+ BTSerial.begin(38400);   // Typical AT mode baud rate
+
+
+ Serial.println("HC-05 AT Mode Test");
+ Serial.println("Type AT commands below:");
+}
+
+
+void loop() {
+ // Send Serial Monitor input to HC-05
+ if (Serial.available()) {
+   BTSerial.write(Serial.read());
+ }
+
+
+ // Send HC-05 responses to Serial Monitor
+ if (BTSerial.available()) {
+   Serial.write(BTSerial.read());
+ }
+}
+```
 
 
 # Second Milestone
